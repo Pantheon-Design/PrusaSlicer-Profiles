@@ -11,7 +11,7 @@ Setup Instructions
       mine was C:\Users\username\AppData\Roaming\PrusaSlicer
       you will get an error that the folder contains files
       
-![](images/clone-a-repository.png)
+![](images/clone-a-repository-new.png)
 
 3. Create a backup of the "PrusaSlicer" folder and then delete it
 4. Select "Clone" in the "Clone a Repository" menu
